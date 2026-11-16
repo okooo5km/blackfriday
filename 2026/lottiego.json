@@ -1,0 +1,14 @@
+{
+  "name": "LottieGo",
+  "url": "https://lottiego.com/black-friday?utm_source=indiegoodies&utm_medium=deal-site&utm_campaign=bf2026",
+  "description": "Shrinks Lottie JSON files and exports them as MP4, transparent MOV or GIF on your Mac, all processed locally",
+  "category": "design",
+  "platforms": ["mac"],
+  "deal": "50% off Pro Lifetime, $2.49, no code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 4.99, "sale": 2.49, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-06",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/1f/0c/c61f0c3a-e808-f492-c24e-5853fe30398d/logo-0-0-85-220-0-6-0-2x.png/512x512bb.png"
+}
