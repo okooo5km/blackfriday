@@ -1,0 +1,14 @@
+{
+  "name": "TimeGo Clock",
+  "url": "https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-indiegoodies&mt=12",
+  "description": "Lightweight, minimalist timer and reminder app for Mac with a countdown HUD and combinable timer groups",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off, $1.99 on the Mac App Store, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 3.99, "sale": 1.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-06",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/d7/3b/afd73bfe-e8c1-03a7-a501-84950e86edaa/TimeGo-0-0-85-220-0-0-6-0-2x.png/512x512bb.png"
+}
