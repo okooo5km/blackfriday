@@ -1,0 +1,15 @@
+{
+  "name": "Zipic",
+  "url": "https://zipic.app/black-friday?utm_source=indiegoodies&utm_medium=deal-site&utm_campaign=bf2026",
+  "description": "Image compression for Mac and Windows, incl. AVIF, WebP and JPEG XL, with a JSON-output CLI on Mac for scripts, CI and AI agents",
+  "category": "media",
+  "platforms": ["mac", "windows"],
+  "deal": "33% off one-time licenses with code BF2026 (Personal $20.09)",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": { "regular": 29.99, "sale": 20.09, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-06",
+  "icon": "https://zipic.app/_astro/icon.CyFf7Yuu.png"
+}

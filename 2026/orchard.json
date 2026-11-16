@@ -1,0 +1,15 @@
+{
+  "name": "Orchard",
+  "url": "https://orchard.5km.tech/black-friday?utm_source=indiegoodies&utm_medium=deal-site&utm_campaign=bf2026",
+  "description": "Gives AI assistants 52 local tools across 11 Apple apps on your Mac via MCP, Agent Skills or a CLI, with no open ports",
+  "category": "ai",
+  "platforms": ["mac"],
+  "deal": "33% off Lifetime and first year of Annual with code BF2026",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 39.99, "sale": 26.79, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-06",
+  "icon": "https://5km.tech/products/orchard/icon.png"
+}
